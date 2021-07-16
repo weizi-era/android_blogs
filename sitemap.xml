@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://weizi-era.com/</loc>
+         <lastmod>2021-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://weizi-era.com/about/</loc>
+         <lastmod>2021-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://weizi-era.com/android/android_startup/</loc>
+         <lastmod>2021-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://weizi-era.com/android/app_startup/</loc>
+         <lastmod>2021-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://weizi-era.com/android/media_server_build/</loc>
+         <lastmod>2021-07-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
